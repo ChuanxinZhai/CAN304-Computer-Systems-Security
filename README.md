@@ -13,3 +13,8 @@ For the guidance, you can read the guidance.md file in the Codes dictionery.
 1. Cancle the limitation that the K(key) value is between 0-128. Now, the value of K can be any non-negative number, for example 114514.
 
 2. Add restrictions to the **key**. It can only be a **non-negative number**. If user input a negative number, it will remind the user to input a non-negative number; If user input a string like "abcd", it will remind the user to input a number.
+
+# Technology
+language: python(3.12)
+
+Tool: PyCharm
