@@ -6,7 +6,7 @@ According to the task sheet, this assessment is separated into three parts. The 
 It is only a demonstration for you to reference and do not copy the codes, which behaviour will lead to **Academic Integrity**.
 
 # Codes guidance
-For the guidance, you can read the guidance.md file in the Codes dictionery.
+For the detailed guidance, you can refer to the guidance.md file in the Codes dictionery.
 
 2024.1.24 new update about the codes:
 
