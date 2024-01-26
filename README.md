@@ -15,6 +15,7 @@ For the detailed guidance, you can refer to the **Guidance.md** file in the Code
 2. Add restrictions to the **key**. It can only be a **non-negative number**. If user input a negative number, it will remind the user to input a non-negative number; If user input a string like "abcd", it will remind the user to input a number.
 
 # Technology
-Language: python(3.12)
+Language: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)(3.12)
 
-Tool: PyCharm
+IDE: ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+
