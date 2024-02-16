@@ -3,6 +3,8 @@ This is the assessment of the 22-23 module CAN304 Computer Systems Security.    
 
 According to the task sheet, this assessment is separated into three parts. The **Codes** dictionery contributes to the _Design and implementation_ part (40%). The **Slides_Presentation.pptx** file contributes to the _Presentation_ part (30%). And for the _Quality of report_ part (30%), considering the duplicate checking rate and the content's privacy, this report file won't be uploaded to the Github.
 
+Marks: 67%
+
 It is only a demonstration for you to reference and do not copy the codes, which behaviour will lead to **Academic Integrity**.
 
 # Codes guidance
